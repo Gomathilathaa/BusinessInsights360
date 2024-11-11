@@ -1,5 +1,6 @@
 ## BusinessInsights360
 
+#### Live Dashboard: https://app.powerbi.com/view?r=eyJrIjoiMGMwNDNmYTktMjRkMi00YWQzLWI1MWItMjNlNDRiOTg1NDZmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 AtliQ Hardware is a consumer goods electronics company having operations in various countries. Their business is growing rapidly and they still rely on excel files for data analytics. Excel files are hard to consume and not effective in generating insights. Also due to the lack of effective analytics the company faced a major loss in Latin America. Senior executives of this company have decided to invest in a data analytics project and have assigned a data analytics team for this work.
 
